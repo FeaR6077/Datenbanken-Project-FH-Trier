@@ -1,6 +1,6 @@
 ## Datenbanken Projekt von Julian Pretzsch, Matrikelnr: ------
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/FeaR6077/Datenbanken-Project-FH-Trier/blob/main/ER-Modell_final.png?raw=true)
 
 ### Einführung
 
